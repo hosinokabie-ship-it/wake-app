@@ -1,0 +1,1 @@
+{"$schema":"https://openapi.vercel.sh/vercel.json","functions":{"api/geocode.js":{"runtime":"nodejs20.x"},"api/route.js":{"runtime":"nodejs20.x"}}}
